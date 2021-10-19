@@ -1,7 +1,7 @@
 {
-    "name": "Amazon",
-    "description": "❤️Amazone Alexa Is a Powerfull bot for Whatsapp Powered By ©️TEENU-X",
-    "logo": "https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg",
+    "name": "⦁═Queen 👸 Alexa═⦁",
+    "description": "❤️Queen Alexa Is a Powerfull bot for Whatsapp Powered By ©️TEENU-X",
+    "logo": "https://telegra.ph/file/4b978de48c417dc1f4cb1.jpg",
     "keywords": ["whatsapp", "userbot", "java", "button bot", "whatsapp", "api", "ai", "alexa", "bug", "free rdp" ],
     "repository": "https://www.github.com/xneon2/Hashzi-X",
     "website":   "https://t.me/Amazone_Neotrox_Support",
@@ -59,7 +59,7 @@
         "MENU_INFO": {
             "description": "write Some Words about yor Bot You can Edite this",
             "required": false,
-            "value": "🧜‍♀ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ᴀ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ. ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ©️ᴛᴇᴇɴᴜ Use ᴇᴀꜱʏ ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ᴘᴇʀᴇᴄᴛʟʏ..🎨ꜱᴏ ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ʙᴇꜱᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ🧞‍♀️!!"
+            "value": "🧜‍♀Queen ᴀʟᴇxᴀ ɪꜱ ᴀ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ. ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ©️En cuzier Use ᴇᴀꜱʏ ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ᴘᴇʀᴇᴄᴛʟʏ..🎨ꜱᴏ ᴀʟᴇxᴀ ɪꜱ ʙᴇꜱᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ🧞‍♀️!!"
         },
         "LANGUAGE": {
             "description": "Bot language. English => EN,  සිංහල භාශාව සදහා => SI",
@@ -104,12 +104,12 @@
         "BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply white to identify)",
             "required": false,
-            "value": "👩‍🦰©Amazone Alexa"
+            "value": "*⦁═Queen 👸 Alexa═⦁*"
         },
         "CAPTIONS": {
             "description": "LOGO CAPTIONS - බොට්ගෙන් LOGO එකක Caption එක",
             "required": false,
-            "value": "Made By👩‍🦰©Amazone Alexa"
+            "value": "*Made By Queen Alexa 2021*"
         },
         "WHATS_LINK_BLOCK": {
             "description": "Link Blocking System.- this one blocks whatsapp group  link",
