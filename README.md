@@ -3,6 +3,6 @@
 
 
 
-### Fail project 🙂 <\>
+### Fail project 🙂 </>
 
 Copyright by Amazone alexa 2021 / Queen alexa 2021
